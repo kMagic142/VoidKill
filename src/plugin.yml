@@ -1,0 +1,13 @@
+name: VoidKill
+author: kMagic
+version: 1.0
+main: ro.kmagic.main.Main
+description: An almost fully configurable Void Kill plugin
+
+commands:
+  voidkill:
+    permission: voidkill.reload
+permissions:
+  voidkill.reload:
+    description: allows voidkill reload command
+    default: op

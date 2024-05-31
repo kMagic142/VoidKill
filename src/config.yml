@@ -1,0 +1,18 @@
+# ================================================================
+#                           VoidKill                             =
+#                       Plugin by: kMagic                        =
+#                    Permissions: voidkill.reload                =
+#                 Spigot page: https://goo.gl/go5j6x             =
+# ================================================================
+
+# Y Limit, if the player gets bellow this, they will be killed.
+YLimit: 1
+
+# If the player dies, he will get this message. Leave blank if you want this disabled.
+dead_message: '&cYou died!'
+
+# Reload message.
+reload_message: '&eVoidKill has been reloaded!'
+
+# No permission message (used for reload command).
+noperm_message: '&cYou do not have enough permissions to use this command!'
